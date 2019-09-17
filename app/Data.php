@@ -10,4 +10,3 @@ class Data extends Model
     protected $primaryKey =  "id_data";
     public $timestamps = false;
 }
-sdfsf
